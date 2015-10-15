@@ -7,7 +7,7 @@ In this article, I will try to explain:
 - A Real Life Analogy about Dependency Injection ( This part is not ready yet!)
 - What is Dependency Injection?
 - Why to use Dependency Injection?
-- How to implement Dependency Injection with two examples. 
+- How to implement Dependency Injection with two examples. (Currently, there is only one example code)
 
 # - What is Dependency Injection?
 Instead of giving a class as a paremeter to another class, implement an interface on any class and pass that interface to the target class.
